@@ -25,19 +25,10 @@ git commit -m 'descrição do commit'
 ```
 ##### *Dica: faça o commit apenas quando o código estiver funcionando*
 
-#### 6. Faça o merge da sua branch
+#### 6. Faça o push da sua branch
 ```sh
-git checkout develop
+git push origin feature/nome_da_sua_feature
 ```
 
-```sh
-git merge feature/nome_da_sua_feature
-```
-
-#### 7. Faça o push na branch develop
-```sh
-git push origin develop
-```
-
-#### 8. Crie um pull request
+#### 7. Crie um pull request
 [Criando uma pull request a partir de uma bifurcação - GitHub Docs](https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
