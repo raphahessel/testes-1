@@ -1,5 +1,5 @@
 # Hacktoberfest 2021
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque sodales ut etiam sit. Lorem sed risus ultricies tristique nulla aliquet enim tortor at.
+Descrição
 
 ## Como contribuir
 Se você sempre quis contribuir para o código aberto, agora é sua chance!  
